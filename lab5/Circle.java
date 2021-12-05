@@ -5,9 +5,6 @@ public class Circle {
 	double radius = 1.0;//Sets a default value for radius
 	double area = 1.0;
 	
-//	Circle(){   //Parameterized Constructor to define radius
-//		radius = 5;
-//	}
 	
 	public double getarea() {
 		double a = 3.14*radius * radius;
